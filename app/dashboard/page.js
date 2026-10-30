@@ -56,7 +56,7 @@ export default function Dashboard() {
     border: "none",
     padding: "11px 20px",
     borderRadius: 10,
-    fontWeight: "bold" as const,
+    fontWeight: "bold",
     cursor: "pointer",
   };
 
